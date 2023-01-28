@@ -1,1 +1,2 @@
 # Area
+print("area")
