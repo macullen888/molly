@@ -1,2 +1,3 @@
-# Area
+'''
+'''
 print("area")
